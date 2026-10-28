@@ -30,7 +30,7 @@ Requer PHP com `pdo_mysql`, `mbstring` e `fileinfo`, e MariaDB. Os testes JavaSc
 4. Crie o administrador seguindo o [guia de operação](ong-connect/ong-connect/docs/PHP-MARIADB.md). Não publique senhas nem arquivos de configuração privada.
 5. Execute `php -S 127.0.0.1:8080 -t ong-connect` e abra `http://127.0.0.1:8080`.
 
-Sirva somente a pasta pública interna. O Live Server não executa o backend PHP.
+Sirva somente a pasta pública interna. O Live Server não executa o backend PHP
 
 ## Verificações
 
